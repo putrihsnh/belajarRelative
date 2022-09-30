@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Belajar Relative</string>
+    <string name="app_name">Belajar Relatif</string>
+    <string name="hal">hal :</string>
+    <string-array name="arr_kepada">
+        <item>Aku yang Tersakiti</item>
+        <item>Dia Dia Dia</item>
+        <item>Kamu yang Menghantuiku</item>
+    </string-array>
 </resources>
